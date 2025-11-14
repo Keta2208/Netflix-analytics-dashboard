@@ -23,7 +23,6 @@ All visualizations were created using **Tableau Public Desktop**, packaged as a 
 ## 🖼 Dashboard Preview
 
 <img width="1847" height="541" alt="image" src="https://github.com/user-attachments/assets/c4cc625e-0631-474f-8262-3da22f4eb033" />
-
 <img width="1842" height="465" alt="image" src="https://github.com/user-attachments/assets/4ab612e2-cbd4-434d-b150-ec92e2095dbf" />
 
 
