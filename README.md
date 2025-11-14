@@ -25,7 +25,6 @@ All visualizations were created using **Tableau Public Desktop**, packaged as a 
 | File | Description |
 |------|-------------|
 | `Netflix Visualization.twbx` | Tableau workbook containing the dashboard and embedded dataset |
-| `images/` | (Optional) Dashboard screenshots for README preview |
 | `README.md` | Project documentation |
 
 ## 📊 Key Visualizations
