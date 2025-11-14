@@ -20,3 +20,70 @@ The goal of this project is to analyze Netflix’s catalog and uncover insights 
 All visualizations were created using **Tableau Public Desktop**, packaged as a `.twbx` workbook for easy download and exploration.
 
 ---
+## 📁 Repository Contents
+
+| File | Description |
+|------|-------------|
+| `Netflix Visualization.twbx` | Tableau workbook containing the dashboard and embedded dataset |
+| `images/` | (Optional) Dashboard screenshots for README preview |
+| `README.md` | Project documentation |
+
+## 📊 Key Visualizations
+
+### 1️⃣ Total Movies & TV Shows by Country  
+Choropleth world map showing how Netflix content is spread globally.
+
+### 2️⃣ Top 10 Genres  
+Horizontal bar chart showing the most frequent genre combinations.
+
+### 3️⃣ Ratings Distribution  
+Bar chart comparing content ratings (TV-MA, TV-14, PG-13, etc.).
+
+### 4️⃣ Movies vs TV Shows  
+Bubble chart showing:  
+- **Movies:** 4,265 titles  
+- **TV Shows:** 1,969 titles  
+
+### 5️⃣ Year-wise Netflix Growth  
+Area chart visualizing content added between 2008–2020.
+
+### 6️⃣ Metadata Panel  
+Interactive filters for:  
+- Type  
+- Title  
+- Release Year  
+- Rating  
+- Genre  
+- Duration  
+- Description  
+
+---
+
+## 🛠 Tools Used
+
+- Tableau Public Desktop  
+- Tableau Hyper Engine (embedded data file)  
+- GitHub for version control  
+
+---
+
+## 📥 How to Open the Dashboard
+
+1. Download the `.twbx` file  
+2. Install **Tableau Public Desktop** (free)  
+3. Open the workbook directly — the dataset is already embedded  
+
+---
+
+
+## 👩‍💻 Author
+
+**Keta Patel**  
+Master’s in Business Analytics  
+University of Illinois Chicago  
+
+---
+
+## ⭐ Support
+
+If you find this project useful, please ⭐ star the repository!
