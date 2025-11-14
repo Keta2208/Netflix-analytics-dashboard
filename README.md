@@ -20,6 +20,11 @@ The goal of this project is to analyze Netflix’s catalog and uncover insights 
 All visualizations were created using **Tableau Public Desktop**, packaged as a `.twbx` workbook for easy download and exploration.
 
 ---
+
+
+<img width="1847" height="541" alt="image" src="https://github.com/user-attachments/assets/c4cc625e-0631-474f-8262-3da22f4eb033" />
+
+
 ## 📁 Repository Contents
 
 | File | Description |
